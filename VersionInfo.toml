@@ -4,5 +4,5 @@ Date = "2021/7/19"
 
 UpdateAnouncement = """
 This is a test announcement for update checker.
-Multi-line strings powered by TOML.
+Multi-line string powered by TOML.
 """
